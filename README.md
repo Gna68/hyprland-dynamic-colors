@@ -85,7 +85,7 @@ include ~/.config/kitty/kitty-themes/01-Wallust.conf
 Clone repo:
 
 ```bash
-git clone https://github.com/yourusername/hyprland-dynamic-colors.git
+git clone https://github.com/Gna68/hyprland-dynamic-colors.git
 cd hyprland-dynamic-colors
 ```
 
