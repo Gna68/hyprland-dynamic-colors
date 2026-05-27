@@ -1,5 +1,6 @@
 # Hyprland Dynamic Terminal Colors
-
+## Preview
+![preview](screenshots/preview.png)
 Automatically change terminal colors based on wallpaper using:
 
 - Hyprland
