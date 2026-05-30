@@ -154,4 +154,4 @@ This setup changes:
 - ANSI colors
 - kitty theme
 
-Fishbone++ prompt colors are still static unless manually themed.
+Fishbone++ prompt colors are still static unless manually themed..
